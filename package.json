@@ -2,6 +2,7 @@
   "name": "ultimate-frontend-browser-guide",
   "version": "1.0.0",
   "description": "这是一个系统性的、深度和广度并存的、涵盖现代前端开发者所需掌握的核心浏览器知识的文档库。",
+  "type": "module",
   "main": "index.js",
   "directories": {
     "doc": "docs"
