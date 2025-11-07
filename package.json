@@ -1,0 +1,28 @@
+{
+  "name": "ultimate-frontend-browser-guide",
+  "version": "1.0.0",
+  "description": "这是一个系统性的、深度和广度并存的、涵盖现代前端开发者所需掌握的核心浏览器知识的文档库。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miniliupeng/ultimate-frontend-browser-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miniliupeng/ultimate-frontend-browser-guide/issues"
+  },
+  "homepage": "https://github.com/miniliupeng/ultimate-frontend-browser-guide#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
