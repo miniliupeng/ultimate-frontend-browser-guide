@@ -51,6 +51,7 @@
 *   [04-Web安全深化：点击劫持与其他攻击](./docs/5.浏览器安全/04-Web安全深化：点击劫持与其他攻击.md)
 *   [05-内容安全策略（CSP）详解：构建坚不可摧的防线](./docs/5.浏览器安全/05-内容安全策略（CSP）详解：构建坚不可摧的防线.md)
 *   [06-认证与授权：JWT安全最佳实践](./docs/5.浏览器安全/06-认证与授权：JWT安全最佳实践.md)
+*   [07-隐私沙盒与第三方Cookie的终结](./docs/5.浏览器安全/07-隐私沙盒与第三方Cookie的终结.md)
 
 ### [第六章：新兴技术与API](./docs/6.新兴技术与API/)
 *   [01-Web Workers：解放主线程的利器](./docs/6.新兴技术与API/01-Web%20Workers：解放主线程的利器.md)
@@ -63,6 +64,7 @@
 *   [08-WebGPU：释放浏览器图形与计算的未来](./docs/6.新兴技术与API/08-WebGPU：释放浏览器图形与计算的未来.md)
 *   [09-设备连接API：WebUSB, Web Bluetooth & Web Serial](./docs/6.新兴技术与API/09-设备连接API：WebUSB,%20Web%20Bluetooth%20&%20Web%20Serial.md)
 *   [10-WebXR Device API：构建沉浸式虚拟与增强现实](./docs/6.新兴技术与API/10-WebXR%20Device%20API：构建沉浸式虚拟与增强现实.md)
+*   [11-微前端架构下的浏览器隔离机制](./docs/6.新兴技术与API/11-微前端架构下的浏览器隔离机制.md)
 
 ### [第七章：Web可访问性 (A11y)](./docs/7.Web可访问性/)
 *   [01-Web可访问性(A11y)入门与WAI-ARIA](./docs/7.Web可访问性/01-Web可访问性(A11y)入门与WAI-ARIA.md)
